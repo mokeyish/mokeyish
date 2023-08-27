@@ -21,6 +21,10 @@
 - Are you currently diving into machine learning studies and find yourself juggling numerous mathematical formula notes? If you're struggling with the notation, give my tool a shot.
 
   [ Latex Equation Editor](https://math.yish.org)
+  
+- If you also use Python but find it challenging to know which functions are available in the built-in global functions like max, min, filter, without consulting the documentation, and sometimes lose typing information, resulting in the loss of code completion suggestions in your IDE, you can give my fully generic dataset manipulation library a try. It draws inspiration from languages like C#, Kotlin, Rust, and more. You will find it easy to adapt to and use.
+
+  [Pyiter](https://github.com/mokeyish/pyiter)
 
 
 
